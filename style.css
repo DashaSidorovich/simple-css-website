@@ -156,15 +156,15 @@ nav li:active {
 }
 
 #we-plan {
-  background-image: url("/src/plan.png");
+  background-image: url("src/plan.png");
 }
 
 #we-manage {
-  background-image: url("/src/manage.png");
+  background-image: url("src/manage.png");
 }
 
 #we-build {
-  background-image: url("/src/build.png");
+  background-image: url("src/build.png");
 }
 
 #we-plan,
@@ -236,7 +236,7 @@ button:hover {
 }
 
 #contact {
-  background-image: url("/src/bg.png");
+  background-image: url("src/bg.png");
   background-color: #171819;
   background-size: cover;
   height: 80vh;
